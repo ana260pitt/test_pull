@@ -1,1 +1,4 @@
 1. This is an initial test.
+2. This is the change made on my PERSONAL account. - A.A.
+3. This is a change in the "TEST-BRANCH". - A.A.
+4. This is the fourth change on the "test branch". -A.A.
